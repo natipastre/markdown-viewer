@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/markdown-viewer/static/css/main.f29803bc.css",
+    "main.js": "/markdown-viewer/static/js/main.d74472eb.js",
+    "static/js/239.7a0545fc.chunk.js": "/markdown-viewer/static/js/239.7a0545fc.chunk.js",
+    "static/js/977.35fc5158.chunk.js": "/markdown-viewer/static/js/977.35fc5158.chunk.js",
+    "static/js/455.331703d4.chunk.js": "/markdown-viewer/static/js/455.331703d4.chunk.js",
+    "static/js/453.f4c09c2a.chunk.js": "/markdown-viewer/static/js/453.f4c09c2a.chunk.js",
+    "index.html": "/markdown-viewer/index.html",
+    "main.f29803bc.css.map": "/markdown-viewer/static/css/main.f29803bc.css.map",
+    "main.d74472eb.js.map": "/markdown-viewer/static/js/main.d74472eb.js.map",
+    "239.7a0545fc.chunk.js.map": "/markdown-viewer/static/js/239.7a0545fc.chunk.js.map",
+    "977.35fc5158.chunk.js.map": "/markdown-viewer/static/js/977.35fc5158.chunk.js.map",
+    "455.331703d4.chunk.js.map": "/markdown-viewer/static/js/455.331703d4.chunk.js.map",
+    "453.f4c09c2a.chunk.js.map": "/markdown-viewer/static/js/453.f4c09c2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f29803bc.css",
+    "static/js/main.d74472eb.js"
+  ]
+}
