@@ -66,3 +66,7 @@ O projeto foi criado para aprimorar habilidades em React, hooks e design de inte
 <p align="center">
   💙 <i>Feito com dedicação por Natália Baptista Pastre — 2025</i>
 </p>
+
+<p align="center">
+  <sub>© 2025 Estúdio Markdown — Projeto desenvolvido por <b>Natália Baptista Pastre</b></sub>
+</p>
