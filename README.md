@@ -1,11 +1,18 @@
-# 📝 Estúdio Markdown
+<h1 align="center">📝 Estúdio Markdown</h1>
+
+<p align="center">
+  <img src="A_digital_image_showcases_a_modern_MacBook_laptop_.png" width="700px" alt="Prévia do Estúdio Markdown">
+</p>
+
+<p align="center">
+  🌐 <strong>Acesse o projeto online:</strong><br>
+  👉 <a href="https://natipastre.github.io/markdown-viewer/">https://natipastre.github.io/markdown-viewer/</a>
+</p>
+
+---
 
 **Estúdio Markdown** é um editor online desenvolvido em **React**, que permite escrever e visualizar Markdown em tempo real.  
-O projeto foi criado para aprimorar habilidades em React, hooks, e design de interfaces responsivas e modernas.
-
-🌐 **Acesse o projeto online:**  
-👉 [https://natipastre.github.io/markdown-viewer/](https://natipastre.github.io/markdown-viewer/)
-
+O projeto foi criado para aprimorar habilidades em React, hooks e design de interfaces responsivas e modernas.
 
 ---
 
@@ -28,8 +35,6 @@ O projeto foi criado para aprimorar habilidades em React, hooks, e design de int
 - **Markdown-it**  
 
 ---
-
-
 
 > 💡 *Exemplo:*  
 > - **Negrito**  
