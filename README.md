@@ -58,4 +58,33 @@ npm install
 # Inicie o projeto
 npm start
 
+## 👩🏻‍💻 Autora  
+
+<p align="center">
+  <b>💡 Desenvolvido por</b>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/natipastre" width="120" style="border-radius: 50%;" alt="Foto de perfil de Natália Baptista Pastre"/>
+</p>
+
+<p align="center">
+  <b>👩🏻‍💻 Natália Baptista Pastre</b><br>
+  <i>Desenvolvedora Front-End em formação</i>
+</p>
+
+<p align="center">
+  🌐 <a href="https://www.linkedin.com/in/nataliapastre-dev/" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/natipastre" target="_blank">GitHub</a>
+</p>
+
+<p align="center">
+  💙 <i>Feito com dedicação por Natália Baptista Pastre — 2025</i>
+</p>
+
+
+<p align="center">
+  💙 <i>Feito com dedicação por Natália Baptista Pastre — 2025</i>
+</p>
+
 
