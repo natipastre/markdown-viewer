@@ -1,7 +1,7 @@
 <h1 align="center">📝 Estúdio Markdown</h1>
 
 <p align="center">
-  <img src="A_digital_image_showcases_a_modern_MacBook_laptop_.png" width="700px" alt="Prévia do Estúdio Markdown">
+  <img src="https://i.postimg.cc/nzBpNvSf/Chat-GPT-Image-8-de-nov-de-2025-10-50-19.png" width="700px" alt="Prévia do Estúdio Markdown">
 </p>
 
 <p align="center">
@@ -57,4 +57,5 @@ npm install
 
 # Inicie o projeto
 npm start
+
 
