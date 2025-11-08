@@ -43,21 +43,6 @@ O projeto foi criado para aprimorar habilidades em React, hooks e design de inte
 
 ---
 
-## 🧩 Como executar localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/natipastre/markdown-viewer.git
-
-# Acesse a pasta do projeto
-cd markdown-viewer
-
-# Instale as dependências
-npm install
-
-# Inicie o projeto
-npm start
-
 ## 👩🏻‍💻 Autora  
 
 <p align="center">
@@ -81,10 +66,3 @@ npm start
 <p align="center">
   💙 <i>Feito com dedicação por Natália Baptista Pastre — 2025</i>
 </p>
-
-
-<p align="center">
-  💙 <i>Feito com dedicação por Natália Baptista Pastre — 2025</i>
-</p>
-
-
