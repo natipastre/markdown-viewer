@@ -6,13 +6,6 @@ O projeto foi criado para aprimorar habilidades em React, hooks, e design de int
 🌐 **Acesse o projeto online:**  
 👉 [https://natipastre.github.io/markdown-viewer/](https://natipastre.github.io/markdown-viewer/)
 
-<p align="center">
-  <img src="mockup-estudio-markdown.png" width="700px" alt="Prévia do Estúdio Markdown">
-</p>
-
-<h3 align="center">
-  🚀 <a href="https://natipastre.github.io/markdown-viewer/">Acesse o projeto</a>
-</h3>
 
 ---
 
